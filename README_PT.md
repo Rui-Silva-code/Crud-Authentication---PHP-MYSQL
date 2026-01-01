@@ -65,19 +65,20 @@ O projeto inclui **autenticação de utilizadores**, **operações CRUD** e uma 
 ---
 
 Estrutura do projeto (resumo)
-   /css/                -> Estilo
-   /imagens/            -> Imagens
-   casopratico.sql      -> Esquema Base de Dados
-   basedados.php        -> Ligação Base de Dados
-   index.php            -> Página Inicial
-   login.php            -> Página Login
-   processa_login.php   -> Processamento Login
-   pagina_de_registro.html
-   processa_registro.php
-   perfil_utilizador.php
-   perfil_admin.php
-   editar_*.php         -> Operações para Alterações
-   excluir_*.php        -> Operações para Apagar
+      /css/                    -> Estilos
+      /imagens/                -> Imagens
+      casopratico.sql          -> Esquema da base de dados
+      basedados.php            -> Ligação à base de dados
+      index.php                -> Página inicial
+      login.php                -> Página de login
+      processa_login.php       -> Processamento do login
+      pagina_de_registro.html  -> Página de registo
+      processa_registro.php    -> Processamento de registo
+      perfil_utilizador.php    -> Perfil do utilizador
+      perfil_admin.php         -> Perfil do administrador
+      editar_*.php             -> Operações de edição
+      excluir_*.php            -> Operações de eliminação
+
 
 ---
 
