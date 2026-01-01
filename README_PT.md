@@ -1,7 +1,7 @@
 # CRUD-AUTHENTICATION – PHP & MySQL
 
 ## Visão geral
-Projeto final desenvolvido no âmbito do curso de Web Development, com o objetivo de demonstrar competências práticas em desenvolvimento back-end com **PHP** e **MySQL**, bem como a integração com o front-end.
+Projeto desenvolvido no âmbito do curso de Web Development, com o objetivo de demonstrar competências práticas em desenvolvimento back-end com **PHP** e **MySQL**, bem como a integração com o front-end.
 
 O projeto inclui **autenticação de utilizadores**, **operações CRUD** e uma estrutura básica organizada seguindo boas práticas iniciais.
 
